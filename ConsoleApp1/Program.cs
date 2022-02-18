@@ -9,8 +9,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string message = "esto es una prueba"; // <---- el mensaje a enviar
-            string password = "t3stCarl0sR0sales"; // <---- la clave que tendremos ambos
+            string message = "4111111111111111"; // <---- el mensaje a enviar
+            string password = "S4g4F4llab3ll42o2o"; // <---- la clave que tendremos ambos
 
             SHA256 mySHA256 = SHA256Managed.Create();
             byte[] key = mySHA256.ComputeHash(Encoding.ASCII.GetBytes(password));

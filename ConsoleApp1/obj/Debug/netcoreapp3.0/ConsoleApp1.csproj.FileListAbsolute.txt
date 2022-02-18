@@ -9,3 +9,16 @@ C:\Users\KZ_Ma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Cons
 C:\Users\KZ_Ma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
 C:\Users\KZ_Ma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
 C:\Users\KZ_Ma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Desarrollo\TestEncriptacionIVR\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.genruntimeconfig.cache
